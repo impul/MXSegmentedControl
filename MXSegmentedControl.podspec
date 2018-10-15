@@ -9,11 +9,11 @@ MXSegmentedControl is a segmented control framework for iOS:
 - Can be linked with a scroll view.
                        DESC
 
-  s.homepage         = "https://github.com/maxep/MXSegmentedControl"
+  s.homepage         = "https://github.com/impul/MXSegmentedControl"
   s.license          = 'MIT'
-  s.author           = { "Maxime Epain" => "maxime.epain@gmail.com" }
-  s.source           = { :git => "https://github.com/maxep/MXSegmentedControl.git", :tag => s.version.to_s }
-  s.social_media_url = 'https://twitter.com/MaximeEpain'
+  s.author           = { "Pavlo Boiko" => "pavlo.bojkoo@gmail.com" }
+  s.source           = { :git => "https://github.com/impul/MXSegmentedControl.git", :tag => s.version.to_s }
+
 
   s.platform     = :ios, '8.0'
   s.requires_arc = true
